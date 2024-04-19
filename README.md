@@ -1,0 +1,1 @@
+A quick project to reinforce the basics of HTML
