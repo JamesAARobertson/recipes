@@ -1,0 +1,25 @@
+body {
+    background-color: #161F38;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.heading {
+    font-size: xx-large;
+    color: #FDB44E;
+}
+
+.link {
+    color: darkgoldenrod;
+    font-size: x-large;
+    text-align: center;
+}
+
+.description {
+    color: darkgoldenrod;
+    font-size: large;
+}
+
+li {
+    font-size: large;
+    font-weight: bold;
+}
